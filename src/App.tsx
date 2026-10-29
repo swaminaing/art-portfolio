@@ -67,8 +67,6 @@ function Hero() {
             COLOUR & CURIOSITY
           </div>
 
-          <div className="artwork-spark spark-one">✳</div>
-          <div className="artwork-spark spark-two">✦</div>
           <div className="artwork-label label-bottom">
             DESIGNED WITH
             <br />
